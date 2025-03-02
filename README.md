@@ -36,8 +36,8 @@ bash
 Copy
 Edit
 npm run dev
-Open your browser and go to http://localhost:3000 to start playing the game!
-
+Open your browser and go to http://localhost:5173 to start playing the game!
+__________________________________________________________________________________________________________________________________________________________________________
 📜 License
 plaintext
 Copy
