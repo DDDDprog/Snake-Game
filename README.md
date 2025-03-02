@@ -1,12 +1,43 @@
-# React + Vite
+Snake Game by Dipanjan Dhar
+A classic Snake Game built using React, JSX, and Vite. Guide the snake to eat food and avoid walls or your own tail.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Features
+Simple and fun gameplay
+Easy controls with arrow keys or WASD
+Increasing difficulty as the snake grows
+Technologies Used
+React
+JSX
+Vite (for development)
+CSS
+How to Play
+Clone the repository:
 
-Currently, two official plugins are available:
+bash
+Copy
+Edit
+git clone https://github.com/DDDDprog/Snake-Game.git
+Navigate to the project folder:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+bash
+Copy
+Edit
+cd Snake-Game
+Install dependencies:
 
-## Expanding the ESLint configuration
+bash
+Copy
+Edit
+npm install
+Start the development server:
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+bash
+Copy
+Edit
+npm run dev
+Open your browser and visit http://localhost:3000 to play the game.
+
+License
+MIT License
+
+Enjoy playing the Snake Game!
