@@ -18,8 +18,12 @@ bash
 Copy
 Edit
 
-git```
+⚙️ How to Play
+Clone the repository:
 
+bash
+Copy
+Edit
 git clone https://github.com/DDDDprog/Snake-Game.git
 Navigate to the project folder:
 
@@ -40,6 +44,8 @@ Copy
 Edit
 npm run dev
 Open your browser and go to http://localhost:5173 to start playing the game!
+
+
 __________________________________________________________________________________________________________________________________________________________________________
 📜 License
 plaintext
