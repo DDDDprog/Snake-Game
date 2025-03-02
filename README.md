@@ -17,6 +17,9 @@ Clone the repository:
 bash
 Copy
 Edit
+
+git```
+
 git clone https://github.com/DDDDprog/Snake-Game.git
 Navigate to the project folder:
 
